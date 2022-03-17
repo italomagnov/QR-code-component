@@ -21,8 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [QR code component](https://qr-code-component-mu.vercel.app/)
 
 ## My process
 
@@ -42,6 +41,6 @@ In the future I would like to rewrite this project using React
 
 ## Author
 
-- Linkedin - [Add your name here](www.linkedin.com/in/italomagnov)
+- Linkedin - [Italo Magno](https://www.linkedin.com/in/italomagnov)
 - Twitter - [@_roryz](https://twitter.com/_roryz)
 - Frontend Mentor - [@italomagnov](https://www.frontendmentor.io/profile/italomagnov)
