@@ -45,6 +45,13 @@ body {
     margin: 0 0 25px;
 }
 
+.text__card h1 {
+    margin: 1rem 0;
+    opacity: 0.9;
+    font-size: 20px;
+    color: var(--Dark-blue);
+}
+
 .text__card p {
     color: var(--Grayish-blue);
 }
