@@ -5,22 +5,24 @@
 --Dark-blue: hsl(218, 44%, 22%);
 }
 
+* {
+    margin: 0;
+    padding: 0;
+}
+
 body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
     font-family: 'Outfit', sans-serif;
     font-size: 15px;
     background: var(--Light-gray);
-
-}
-
-.main {
-    max-width: 1440px;
-    margin: 7rem auto;
 }
 
 .card__container {
     background: var(--White);
     width: 300px;
-    margin: 0 auto;
     border-radius: 25px;
 }
 
@@ -31,12 +33,9 @@ body {
     padding-top: 1rem;
 }
 
-.img__container {
-    width: 270px;
-}
-
 .img__qrCode {
     width: 100%;
+    width: 17rem;
     border-radius: 8px;
 }
 
