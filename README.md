@@ -41,6 +41,6 @@ In the future I would like to rewrite this project using React
 
 ## Author
 
-- Linkedin - [Ítalo Magno](www.linkedin.com/in/italomagnov)
+- Linkedin - [Ítalo Magno](https://www.linkedin.com/in/italomagnov)
 - Twitter - [@_roryz](https://twitter.com/_roryz)
 - Frontend Mentor - [@italomagnov](https://www.frontendmentor.io/profile/italomagnov)
